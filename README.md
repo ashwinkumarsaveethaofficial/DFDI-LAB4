@@ -2,9 +2,13 @@
 
 ## AIM:
 This experiment aims to demonstrate:
+
   •	Create a Disk Partition.
+  
   •	Adding, deleting, and recovering files using Autopsy.
+  
   •	Understanding the forensic recovery of deleted data.
+  
   •	Removing the disk partition after the process.
 
 ## EQUIPMENTS REQUIRED:
@@ -87,15 +91,25 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## Removing the Disk Partition (Optional Cleanup)
 1.Using Disk Management:
+
   •	Open Disk Management (Win + X → Disk Management).
+  
   •	Identify the created partition.
+  
   •	Right-click on the partition → Select Delete Volume.
+  
 2.Alternative Method via Settings:
+
   •	Click the Start button → Go to Settings.
+  
   •	Select System → Click Storage.
+  
   •	Click Advanced Storage Settings → Select Disks & Volumes.
+  
   •	View the list of available disks.
+  
   •	Select the created partition → Click Properties.
+  
   •	Click the Delete option to remove it.
 
 
