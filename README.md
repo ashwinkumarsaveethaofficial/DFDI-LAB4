@@ -56,7 +56,9 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
   •	Enter a case name (e.g., Autopsy1).
   
   •	Select a location for the case folder → Click Next → Finish.
+
   ![image](https://github.com/user-attachments/assets/78ea718c-53a4-4512-8f3f-75538efd7d02)
+  
 
   •	Add optional information
   ![image](https://github.com/user-attachments/assets/94e6ef9e-656b-4e66-b8cf-072045ba66e0)
@@ -92,25 +94,25 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ## Removing the Disk Partition (Optional Cleanup)
 1.Using Disk Management:
 
-  •	Open Disk Management (Win + X → Disk Management).
-  
-  •	Identify the created partition.
-  
-  •	Right-click on the partition → Select Delete Volume.
+    •	Open Disk Management (Win + X → Disk Management).
+    
+    •	Identify the created partition.
+    
+    •	Right-click on the partition → Select Delete Volume.
   
 2.Alternative Method via Settings:
 
-  •	Click the Start button → Go to Settings.
-  
-  •	Select System → Click Storage.
-  
-  •	Click Advanced Storage Settings → Select Disks & Volumes.
-  
-  •	View the list of available disks.
-  
-  •	Select the created partition → Click Properties.
-  
-  •	Click the Delete option to remove it.
+    •	Click the Start button → Go to Settings.
+    
+    •	Select System → Click Storage.
+    
+    •	Click Advanced Storage Settings → Select Disks & Volumes.
+    
+    •	View the list of available disks.
+    
+    •	Select the created partition → Click Properties.
+    
+    •	Click the Delete option to remove it.
 
 
 ## RESULT:
