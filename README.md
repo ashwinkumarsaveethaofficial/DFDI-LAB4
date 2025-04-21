@@ -15,8 +15,8 @@ This experiment aims to demonstrate:
   ●	Hardware: PCs
 
 ```
-Register Number:212222040121
-Name: Praveen V
+Register Number:212222040020
+Name: Ashwinkumar S
 ```
 
 ## DESIGN STEPS:
@@ -33,7 +33,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ## PROCEDURE:
 ### Step1: Create a New Disk
   •	The new Disk Partition is created
-  ![image](https://github.com/user-attachments/assets/19b59ff8-d8f8-4d0f-8d4a-5e1394c8c037)
+ ![image](https://github.com/user-attachments/assets/ac36144c-c753-4cec-82d6-adac03ae0a7e)
+
 
 ### Step2: Adding and Deleting Files for Recovery
   •	Open File Explorer → Navigate to the newly created drive (C: or D:).
@@ -57,25 +58,25 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
   
   •	Select a location for the case folder → Click Next → Finish.
 
-  ![image](https://github.com/user-attachments/assets/78ea718c-53a4-4512-8f3f-75538efd7d02)
-  
+ ![Screenshot (154)](https://github.com/user-attachments/assets/4dfa4267-d17b-4bad-a6c6-c132d6107498)
+
 
   •	Add optional information
   
-  ![image](https://github.com/user-attachments/assets/94e6ef9e-656b-4e66-b8cf-072045ba66e0)
+  ![Screenshot (152)](https://github.com/user-attachments/assets/b4a7285c-3995-4683-a887-637c7d05df41)
 
 2. Add the Partition as Evidence:
   •	Click Add Data Source → Choose Host.
-  ![image](https://github.com/user-attachments/assets/aefff756-879c-4b26-93ca-866ed25736d4)
+  ![Screenshot 2025-03-19 223322](https://github.com/user-attachments/assets/3ad0612b-655b-406c-ab63-95912238b112)
+
 
   •	Select Local Disk → Click Next.Create a Disk Partition.
-  ![image](https://github.com/user-attachments/assets/f39ac8c9-89cd-42b9-b77a-ad6e69b4a54b)
+   ![Screenshot 2025-03-19 223337](https://github.com/user-attachments/assets/8ed1cda5-f34d-491b-8255-c59c62eadaa0)
 
   •	Choose Disk → Select the VHD drive (Drive1).
-  ![image](https://github.com/user-attachments/assets/6114610a-5118-41fc-9f6c-07697c873d78)
-
+![Screenshot (157)](https://github.com/user-attachments/assets/76043548-2691-4b74-a39c-b764ca5a46c9)
   •	Click Next → Keep the default settings → Click Finish.
-  ![image](https://github.com/user-attachments/assets/36c06665-32e1-4b85-9aca-24312320425b)
+  ![Screenshot 2025-03-19 224106](https://github.com/user-attachments/assets/3feb68c2-3a3a-4e21-b3b8-11f4dfac0990)
 
   •	Allow Autopsy to process the disk.
 
@@ -83,14 +84,14 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
   •	In the left panel, navigate to File Views → Deleted Files.
   
   •	Locate your deleted images.
-  ![image](https://github.com/user-attachments/assets/769879a0-0209-4541-9107-eee21a1330df)
+  ![Screenshot (160)](https://github.com/user-attachments/assets/ab94431a-e6b4-4676-a28c-c574e187e949)
 
   •	Right-click an image → Click Extract File.
   
   •	Choose a folder for saving the recovered files (e.g., C:\image_recovery).
   
   •	The deleted images are now restored!
-  ![image](https://github.com/user-attachments/assets/c50ac6b2-bb5e-489b-a93e-6dad4af1de2e)
+ ![Screenshot (161)](https://github.com/user-attachments/assets/b650dfde-d313-4438-9bb6-e3e5c2c5eae3)
 
 ## Removing the Disk Partition (Optional Cleanup)
 1.Using Disk Management:
