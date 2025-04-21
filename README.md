@@ -76,7 +76,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
   •	Choose Disk → Select the VHD drive (Drive1).
 ![Screenshot (157)](https://github.com/user-attachments/assets/76043548-2691-4b74-a39c-b764ca5a46c9)
   •	Click Next → Keep the default settings → Click Finish.
-  ![Screenshot 2025-03-19 224106](https://github.com/user-attachments/assets/3feb68c2-3a3a-4e21-b3b8-11f4dfac0990)
+ ![image](https://github.com/user-attachments/assets/f94c456b-686d-4ccc-b572-972447d7fe03)
+
 
   •	Allow Autopsy to process the disk.
 
