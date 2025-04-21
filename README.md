@@ -40,7 +40,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
   •	Open File Explorer → Navigate to the newly created drive (C: or D:).
   
   •	Transfer images or files into it.
-  ![image](https://github.com/user-attachments/assets/29edf11c-b7fb-49ea-9ce9-aba1215bc421)
+ ![Screenshot (151)](https://github.com/user-attachments/assets/af27a7ca-1d03-4a5b-b281-524bf9d1e5fc)
+
   
   •	Select one or more files → Press Delete.
   
