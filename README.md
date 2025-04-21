@@ -68,11 +68,10 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 2. Add the Partition as Evidence:
   •	Click Add Data Source → Choose Host.
-  ![Screenshot 2025-03-19 223322](https://github.com/user-attachments/assets/3ad0612b-655b-406c-ab63-95912238b112)
-
+  ![image](https://github.com/user-attachments/assets/5f4c6ea3-e5b6-49d6-aa65-c29deae83f88)
 
   •	Select Local Disk → Click Next.Create a Disk Partition.
-   ![Screenshot 2025-03-19 223337](https://github.com/user-attachments/assets/8ed1cda5-f34d-491b-8255-c59c62eadaa0)
+ ![image](https://github.com/user-attachments/assets/cb97d232-fecf-4818-89ab-3abbdbf356c9)
 
   •	Choose Disk → Select the VHD drive (Drive1).
 ![Screenshot (157)](https://github.com/user-attachments/assets/76043548-2691-4b74-a39c-b764ca5a46c9)
